@@ -120,7 +120,7 @@ seo-competitor-gap-report/
 ## Author
 
 **Rutuja**, growth and performance marketer (SEO, paid, content, B2B link building).
-Connect on [LinkedIn](https://www.linkedin.com/in/rutuja-ghodke/) · GitHub: [@rutujamarketing-rue](https://github.com/rutujamarketing-rue)
+Connect on [LinkedIn](https://www.linkedin.com/in/rutuja-ghodke/) · [LinkedIn](https://www.linkedin.com/in/rutuja-ghodke/) · [GitHub](https://github.com/rutujamarketing-rue)
 
 Contributions and feedback are welcome. Open an issue or a PR.
 
